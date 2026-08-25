@@ -41,13 +41,13 @@ For each problem, I try to break it down step by step:
 
 Each problem is accompanied by notes covering:
 
-* **Problem Statement** — Understanding what the problem is asking
-* **Brute Force Solution** — The straightforward approach
-* **Main Solution** — The optimized or preferred approach
-* **Algorithm** — Step-by-step explanation of the logic
-* **Important Points** — Key observations and things worth remembering
-* **Complexity Analysis** — Time and space complexity
-* **C++ Code** — Implementation of the solution
+* **Problem Statement** - Understanding what the problem is asking
+* **Brute Force Solution** - The straightforward approach
+* **Main Solution** - The optimized or preferred approach
+* **Algorithm** - Step-by-step explanation of the logic
+* **Important Points** - Key observations and things worth remembering
+* **Complexity Analysis** - Time and space complexity
+* **C++ Code** - Implementation of the solution
 
 ## 🎯 Purpose
 
