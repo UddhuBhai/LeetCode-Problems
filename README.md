@@ -2,7 +2,7 @@
 
 A collection of **LeetCode problems solved in C++**, along with my personal **handwritten notes** documenting how I approached each problem.
 
-This repository is not just about collecting solutions—it's about understanding **how to think through a problem**, starting from the brute-force approach and working towards an optimized solution.
+This repository is not just about collecting solutions it's about understanding **how to think through a problem**, starting from the brute-force approach and working towards an optimized solution.
 
 ## 📖 About
 
